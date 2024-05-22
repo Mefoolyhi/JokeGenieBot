@@ -36,6 +36,6 @@ Telegram-бот для рекомендации анекдотов на осно
 
 
 ## Список литературы
-. [Sentence BERT](https://arxiv.org/abs/1908.10084). Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks. N. Reimers, I. Gurevych (2019)
-. [Faiss](https://github.com/facebookresearch/faiss)
-. Ni J, Cai Y, Tang G, Xie Y. Collaborative Filtering Recommendation Algorithm Based on TF-IDF and User Characteristics. Applied Sciences. 2021; 11(20):9554. https://doi.org/10.3390/app11209554
+- [Sentence BERT](https://arxiv.org/abs/1908.10084). Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks. N. Reimers, I. Gurevych (2019)
+- [Faiss](https://github.com/facebookresearch/faiss)
+- Ni J, Cai Y, Tang G, Xie Y. Collaborative Filtering Recommendation Algorithm Based on TF-IDF and User Characteristics. Applied Sciences. 2021; 11(20):9554. https://doi.org/10.3390/app11209554
